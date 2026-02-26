@@ -13,7 +13,7 @@
 ## 说明
 
 1. 第一次使用建议通过 RKDevTool 刷入，若通过 Web 刷入时提示不兼容请做好 USB 救砖准备再尝试
-2. [Actions](https://github.com/zzzz0317/immortalwrt-xgp-auto-build/blob/main/.github/workflows/build.yml) 在北京时间每周五凌晨2点自动拉取 [Immortalwrt](https://github.com/immortalwrt/immortalwrt) 代码编译并发布，平时可能会不定期手动触发更新
+2. [Actions](https://github.com/zzzz0317/immortalwrt-xgp-auto-build/blob/main/.github/workflows/build.yml) 在北京时间每月1号凌晨2点自动拉取 [Immortalwrt](https://github.com/immortalwrt/immortalwrt) 代码编译并发布，平时可能会不定期手动触发更新
 3. 默认 Wi-Fi SSID: `zzXGP`，密码: `xgpxgpxgp`
 4. 默认 LAN 接口地址: `10.0.0.1`
 5. 默认 root 密码: `xgpxgpxgp`，后续可能会变更
